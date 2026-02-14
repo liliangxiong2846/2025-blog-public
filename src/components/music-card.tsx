@@ -96,7 +96,7 @@ export default function MusicCard() {
 			const wasPlaying = !audioRef.current.paused
 			audioRef.current.pause()
 			audioRef.current.src = MUSIC_FILES[currentIndex]
-			audioRef.current.loop = false
+			audioRef.current.loop = true // 启用循环播放
 			setProgress(0)
 
 			if (wasPlaying) {
