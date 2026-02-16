@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "hello.kno",
-		"description": "hello.kno 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "hello.kno"
+		"title": "小熊座β星",
+		"description": "小熊座β星 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "小熊座β星"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -58,7 +58,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "6776375@qq.com",
 			"label": "",
 			"order": 1
 		}
