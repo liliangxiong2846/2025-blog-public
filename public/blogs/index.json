@@ -132,6 +132,16 @@
     "category": "代码实现"
   },
   {
+    "slug": "fish-animation",
+    "title": "鱼鱼动画",
+    "tags": [],
+    "date": "2026-01-12T10:43",
+    "summary": "规划草稿",
+    "cover": "https://www.yysuni.com/images/pictures/b346636da687740b.webp",
+    "hidden": true,
+    "category": ""
+  },
+  {
     "slug": "love-island",
     "title": "恋爱岛项目需求记录",
     "tags": [
@@ -620,16 +630,5 @@
     "date": "2023-06-15",
     "summary": "阮一峰是我最喜欢的博客作者，但他本来不是一名前端开发者，而是学校教书的教授。然而，他的博客伴随着前端在国内的兴起。",
     "cover": "/blogs/ruanyifeng/16ca1175afbdcd1b.jpg"
-  },
-  {
-    "slug": "design-patterns-react",
-    "title": "React 中的设计模式",
-    "tags": [
-      "设计模式",
-      "创建blog网站"
-    ],
-    "date": "2023-05-07",
-    "summary": "设计模式在长期的开发过程当中，会慢慢显得更加重要。掌握好这些设计模式，对日后的项目工作有很大帮助。",
-    "cover": "/blogs/design-patterns-react/836ca6119fb23330.jpg"
   }
 ]
